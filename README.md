@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Chaitanya</h1>
 <h3 align="center">A passionate FULLSTACK developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c3/89/83/c389830a55d9166b648f16996214ef57.gif"/>
+
 # 💫 About Me:
 - 🌱 I’m currently learning **MERN stack - Android development**
 
