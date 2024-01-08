@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c3/89/83/c389830a55d9166b648f16996214ef57.gif"/>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **MERN stack - Android development**
+- 🌱 I’m currently learning **MERN stack - Android development,Web development**
 
 - 📫 How to reach me **saichaitanya5191@gmail.com**
 
